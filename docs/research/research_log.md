@@ -6,7 +6,8 @@ RESEARCH LOG — PHASE 0
 
 Project: MotoFuel Tracker (Urban Mobility)
 
-Student: Ishimwe Gad (29062)
+Student: Ishimwe Gad 
+id: 29062
 
 Date: November 2026
 
