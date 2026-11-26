@@ -1,0 +1,3 @@
+ALTER SESSION SET CONTAINER = ishimwe_29062_gad_motofuel_db;
+GRANT DBA TO gad_admin;
+SELECT USER FROM DUAL;
